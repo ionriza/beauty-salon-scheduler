@@ -11,6 +11,7 @@ TODO:
 - Use bootstrap css library for nice components
 - Create homepage where all the beauty salons will be listed
 - Create salon page, from where you can see al lthe services and book an appointment
+- Create reviews per salon
 - Create the appointment page
 - Create "My appointments" page for user
 - Create "Manage bookings" page for employee
